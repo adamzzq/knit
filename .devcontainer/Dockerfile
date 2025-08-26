@@ -1,7 +1,7 @@
 # Dockerfile
 
 # Use Gradle image with JDK 21
-FROM gradle:8.13-jdk21
+FROM gradle:8.14-jdk21
 LABEL authors="ZZQ"
 
 # Set environment variables
