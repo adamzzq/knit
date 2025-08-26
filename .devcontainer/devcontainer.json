@@ -1,0 +1,9 @@
+{
+  "name": "Knit Dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "extensions": [],
+  "postCreateCommand": "echo 'Knit container ready!'"
+}
